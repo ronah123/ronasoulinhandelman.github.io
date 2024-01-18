@@ -1,31 +1,39 @@
 ---
 
-title: "About David Florian"
+title: "About Catherine Knox"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Catherine Knox is a mechanical engineering student interested in aeropsace and nuclear technology. She holds experience in additive manufacturing, machining, and project management. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+* Vanderbilt University 
+  * Pursuing a BE in Mechanical Engineering
+  * Expected Graduation: 2026
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Catherine can operate a number of 3D printers as well as machining tools. Catherine has experience with the following technologies:
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Digital Fabrication Tools
+  * Fused Filament Fabrication (FFF)
+   
+* Machining Tools
+  * Metal Lathes
+
+## Proffesional Skills
+
+Catherine also has experience managing engineering organizations. She holds the role of Chief People Officer and Advanced Concept System Leader in the [Vanderbilt Fusion Project](https://www.vanderbiltfusion.org/). She also runs her own tutoring business named [Cat's Tutoring](https://catstutoring.squarespace.com/) in which she tutors students at local Nashville High Schools and helps to set up other Vanderbilt students with a tutoring job. Some of her specific proffesional skills include:
+
+* Organizational Management
+* Microsoft Suite
+* Google Suite
+* Event Planning
+* Advertising and Communications
 
 ## Press 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+The Vanderbilt Fusion Project was covered in [Vanderbilt Engineering News](https://engineering.vanderbilt.edu/news/2023/little-sphere-big-power-students-work-to-build-miniature-fusion-reactor/).
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+
