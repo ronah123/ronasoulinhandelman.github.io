@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Catherine Knox: Engineering Portfolio"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,20 +8,20 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Catherine Knox is a mechanical engineering student with a passion for creating and contributing to innovative projects. She is primarily interested in aerospace and nuclear engineering. On this website, you can find a list of Catherine's engineering projects, research inititives, and related involvements."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+  - image_path: assets/img/EcoswellSolarPanel-1.png
+    alt: "placeholder image 1"
+    title: "Renewable Energy Engineering"
+    excerpt: "I performed maintanence and installation of photovoltaic systems."
+  - image_path: assets/img/SollarDistiller-2.jpg
     alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    title: "Solar Distiller"
+    excerpt: "I designed and fabricated a solar distiller for easy access to clean water."
+  - image_path: assets/img/FusionPresentation-1.png
+    alt: "placeholder image 3"
+    title: "the Vanderbilt Fusion Project"
+    excerpt: "I serve as the Chief People Officer and Advanced Concept System Team Leader."
 ---
 
 {% include feature_row %}
-
