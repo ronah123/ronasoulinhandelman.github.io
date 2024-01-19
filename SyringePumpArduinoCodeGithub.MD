@@ -1,3 +1,6 @@
+#Arduino Code 
+
+```cpp
 #include <AccelStepper.h>
 
 // Constructor for the stepper motor
@@ -143,6 +146,8 @@ void loop() {
     Serial.println(steps_per_second);
   }
   }
+  ```
+
 
 
 
