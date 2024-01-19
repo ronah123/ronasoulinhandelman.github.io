@@ -14,7 +14,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Renewable Energy Engineering"
     excerpt: "I performed maintanence and installation of photovoltaic systems."
-  - image_path: assets/img/SollarDistiller-2.jpg
+  - image_path: assets/img/SollarDistiller-2jpg.jpg
     alt: "placeholder image 2"
     title: "Solar Distiller"
     excerpt: "I designed and fabricated a solar distiller for easy access to clean water."
