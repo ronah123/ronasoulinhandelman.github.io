@@ -5,9 +5,9 @@ header:
   image: /assets/img/SyringePumpFinalRendering .png
   teaser: /assets/img/RealSPImage.png
 gallery:
-  - image_path: <img src="/assets/img/RealSPImage.png" width="400" alt="Final Rendering"> 
-  - image_path: <img src="/assets/img/SyringePumpWiringDiagram.png" width="400" alt="Wiring Diagram"> 
-  - image: <img src="/assets/img/ElectronicsENclosureSP.png" width="400" alt="Electronics Enclosure"> 
+  - image_path: /assets/img/RealSPImage.png
+  - image_path: /assets/img/SyringePumpWiringDiagram.png
+  - image: /assets/img/ElectronicsENclosureSP.png
 ---
 
 # Details
