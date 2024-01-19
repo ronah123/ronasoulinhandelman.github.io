@@ -26,7 +26,7 @@ To operate the syringe pump at a given flow rate, first, input the syringe size 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed388afe113beae6f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Arduino Code 
-Attatched is the file to the [Arduino code](SyringePumpArduinoCodeGithub.ino) to operate the Syringe Pump.
+Attatched is the file to the [Arduino code](SyringePumpArduinoCodeGithub.MD) to operate the Syringe Pump.
 
 # Table 1 
 **Parts Required to Purchase** 
